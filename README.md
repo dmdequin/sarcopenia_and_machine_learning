@@ -70,3 +70,6 @@ Distributed under the MIT License. See [LICENSE.txt](https://github.com/dmdequin
 Danielle Dequin - [LinkedIn](https://www.linkedin.com/in/danielle-dequin/)
 
 Naiara Virto Castro - [LinkedIn](https://www.linkedin.com/in/naiara-v-05b420208/)
+
+[![DOI](https://zenodo.org/badge/893853259.svg)](https://doi.org/10.5281/zenodo.14215895)
+
