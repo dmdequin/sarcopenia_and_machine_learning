@@ -1,0 +1,10 @@
+dataset,parameters
+X_mqi_datos,"{'class_weight': 'balanced', 'max_features': 'sqrt', 'n_estimators': 200, 'random_state': 42}"
+X_cor_pear,"{'class_weight': None, 'max_features': 'sqrt', 'n_estimators': 200, 'random_state': 42}"
+X_cor_ols,"{'class_weight': None, 'max_features': None, 'n_estimators': 200, 'random_state': 42}"
+X_forest,"{'class_weight': None, 'max_features': None, 'n_estimators': 200, 'random_state': 42}"
+X_mqi_norm,"{'class_weight': None, 'max_features': 'sqrt', 'n_estimators': 200, 'random_state': 42}"
+X_svm,"{'class_weight': None, 'max_features': 'sqrt', 'n_estimators': 64, 'random_state': 42}"
+X_selected_4,"{'class_weight': 'balanced', 'max_features': 'sqrt', 'n_estimators': 200, 'random_state': 42}"
+X_selected_8,"{'class_weight': None, 'max_features': 'sqrt', 'n_estimators': 200, 'random_state': 42}"
+X_selected_all,"{'class_weight': None, 'max_features': 'sqrt', 'n_estimators': 200, 'random_state': 42}"

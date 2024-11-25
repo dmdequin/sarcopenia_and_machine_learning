@@ -1,0 +1,10 @@
+dataset,parameters
+X_mqi_datos,"{'mlp__activation': 'tanh', 'mlp__hidden_layer_sizes': (200,), 'mlp__learning_rate': 'constant', 'mlp__max_iter': 5000, 'mlp__random_state': 42}"
+X_cor_pear,"{'mlp__activation': 'tanh', 'mlp__hidden_layer_sizes': (100, 100), 'mlp__learning_rate': 'constant', 'mlp__max_iter': 5000, 'mlp__random_state': 42}"
+X_cor_ols,"{'mlp__activation': 'tanh', 'mlp__hidden_layer_sizes': (10,), 'mlp__learning_rate': 'constant', 'mlp__max_iter': 5000, 'mlp__random_state': 42}"
+X_forest,"{'mlp__activation': 'relu', 'mlp__hidden_layer_sizes': (100,), 'mlp__learning_rate': 'constant', 'mlp__max_iter': 5000, 'mlp__random_state': 42}"
+X_mqi_norm,"{'mlp__activation': 'tanh', 'mlp__hidden_layer_sizes': (200,), 'mlp__learning_rate': 'constant', 'mlp__max_iter': 5000, 'mlp__random_state': 42}"
+X_svm,"{'mlp__activation': 'relu', 'mlp__hidden_layer_sizes': (10, 10, 10), 'mlp__learning_rate': 'constant', 'mlp__max_iter': 5000, 'mlp__random_state': 42}"
+X_selected_4,"{'mlp__activation': 'relu', 'mlp__hidden_layer_sizes': (10, 10, 10), 'mlp__learning_rate': 'constant', 'mlp__max_iter': 5000, 'mlp__random_state': 42}"
+X_selected_8,"{'mlp__activation': 'tanh', 'mlp__hidden_layer_sizes': (10,), 'mlp__learning_rate': 'constant', 'mlp__max_iter': 5000, 'mlp__random_state': 42}"
+X_selected_all,"{'mlp__activation': 'relu', 'mlp__hidden_layer_sizes': (200,), 'mlp__learning_rate': 'constant', 'mlp__max_iter': 5000, 'mlp__random_state': 42}"

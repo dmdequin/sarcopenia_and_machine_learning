@@ -1,0 +1,10 @@
+dataset,parameters
+X_mqi_datos,"{'svm__C': 1.0, 'svm__class_weight': 'balanced', 'svm__degree': 3, 'svm__kernel': 'linear', 'svm__probability': True, 'svm__random_state': 42}"
+X_cor_pear,"{'svm__C': 100.0, 'svm__class_weight': 'balanced', 'svm__degree': 3, 'svm__kernel': 'poly', 'svm__probability': True, 'svm__random_state': 42}"
+X_cor_ols,"{'svm__C': 1.0, 'svm__class_weight': 'balanced', 'svm__degree': 3, 'svm__kernel': 'linear', 'svm__probability': True, 'svm__random_state': 42}"
+X_forest,"{'svm__C': 1.0, 'svm__class_weight': 'balanced', 'svm__degree': 3, 'svm__kernel': 'linear', 'svm__probability': True, 'svm__random_state': 42}"
+X_mqi_norm,"{'svm__C': 1.0, 'svm__class_weight': 'balanced', 'svm__degree': 3, 'svm__kernel': 'linear', 'svm__probability': True, 'svm__random_state': 42}"
+X_svm,"{'svm__C': 1.0, 'svm__class_weight': 'balanced', 'svm__degree': 3, 'svm__kernel': 'linear', 'svm__probability': True, 'svm__random_state': 42}"
+X_selected_4,"{'svm__C': 10.0, 'svm__class_weight': 'balanced', 'svm__degree': 3, 'svm__kernel': 'linear', 'svm__probability': True, 'svm__random_state': 42}"
+X_selected_8,"{'svm__C': 1.0, 'svm__class_weight': 'balanced', 'svm__degree': 3, 'svm__kernel': 'linear', 'svm__probability': True, 'svm__random_state': 42}"
+X_selected_all,"{'svm__C': 1.0, 'svm__class_weight': 'balanced', 'svm__degree': 3, 'svm__kernel': 'linear', 'svm__probability': True, 'svm__random_state': 42}"
