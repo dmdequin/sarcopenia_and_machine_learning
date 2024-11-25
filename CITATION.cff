@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dequin"
+  given-names: "Danielle Marie"
+  orcid: "https://orcid.org/0009-0000-4054-0157"
+- family-names: "Virto Castro"
+  given-names: "Naiara"
+  orcid: "https://orcid.org/0000-0002-2850-8717"
+title: "sarcopenia_and_machine_learning"
+version: 1.0.0
+doi: 10.5281/zenodo.14215896
+date-released: 2024-11-25
+url: "https://github.com/dmdequin/sarcopenia_and_machine_learning"
